@@ -1,0 +1,2 @@
+# 让 README 永远采用 ours 策略（即保留本地版本）
+README.md merge=ours
